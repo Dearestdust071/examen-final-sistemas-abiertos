@@ -70,6 +70,7 @@ Asegúrate de tener instalado en tu máquina:
 
 * El **backend** estará disponible en `http://localhost:4000`
 * El **frontend** estará disponible en `http://localhost:5173`
+* La **Documentacion** de Swagger estara disponible en `http://localhost:4000/docs`
 
 ---
 
